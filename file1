@@ -1,0 +1,2 @@
+#file
+today is rainyday
