@@ -1,3 +1,3 @@
 #file
 today is rainyday
-today the climate is so cool
+and the climate is so cool
